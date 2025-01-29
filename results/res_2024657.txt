@@ -1,0 +1,10 @@
+Read filtered Gaia data!
+Starting to calculate rotational velocity for each data point
+Finished calculating rotational velocity
+Finding distance to MW center
+maximum parallax distance from Earth: 9999.686630542648
+minimum parallax angle: 0.100003133792777
+maximum parallax angle: 169.06150528157374
+Finished finding distance to MW Center
+Beginning plotting
+Finished plotting!!
